@@ -1,0 +1,1 @@
+/home/manwar/.config/lvim/config.lua
